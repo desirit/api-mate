@@ -139,6 +139,8 @@ To watch for changes and compile the files automatically, run:
 
     [./node_modules/.bin/]cake watch
 
+A Very Cool Service
+-------------------
 
 License
 -------
